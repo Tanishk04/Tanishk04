@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tanishk04
 - 👀 I’m interested in Cloud Technology.
-- 🌱 I’m currently learning Development.
+- 🌱 I’m currently learning Development in Python.
 - 📫 How to reach me - tr15042001@gmail.com
 
 <!---
