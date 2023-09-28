@@ -1,8 +1,8 @@
 
-👋 Greetings! I go by the handle @Tanishk04.
-👀 My passion lies in the realm of Cloud Technology.
-🌱 I'm in the process of expanding my knowledge in Python development.
-📫 Feel free to contact me at tr15042001@gmail.com.
+-👋 Greetings! I go by the handle @Tanishk04.
+-👀 My passion lies in the realm of Cloud Technology.
+-🌱 I'm in the process of expanding my knowledge in Python development.
+-📫 Feel free to contact me at tr15042001@gmail.com.
 
 ### Languages, Tools, and Skills 🛠
 <div align="center">
